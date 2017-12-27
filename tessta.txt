@@ -1,0 +1,7 @@
+title:Good place,
+content:Good place content,
+starred:4,
+first_name:Manh Ha,
+last_name:Nguyen,
+email:manhha@etravel.com,
+phone:0909999000
